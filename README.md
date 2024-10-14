@@ -1,0 +1,1 @@
+# Penyelesaian-Model-SIR-Metode-Euler
